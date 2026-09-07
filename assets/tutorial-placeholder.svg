@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="GPT-6 Astra website tutorial coming soon">
+<rect width="1280" height="720" fill="#14171c"/>
+<rect x="64" y="64" width="1152" height="592" rx="24" fill="none" stroke="#424852" stroke-width="2"/>
+<circle cx="640" cy="268" r="64" fill="#e6e9ef"/>
+<path d="M625 238L667 268L625 298Z" fill="#14171c"/>
+<g fill="#e6e9ef" text-anchor="middle" font-family="Arial, sans-serif">
+<text x="640" y="408" font-size="48" font-weight="700">GPT-6 Astra · 10K Websites</text>
+<text x="640" y="472" font-size="28">Video walkthrough coming soon</text>
+<text x="640" y="568" font-size="22" fill="#a4aebc">Desktop Build → Mobile Refinement</text>
+</g></svg>
