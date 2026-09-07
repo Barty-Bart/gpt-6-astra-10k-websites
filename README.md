@@ -1,10 +1,6 @@
-<!-- When the tutorial is ready, replace the preview below with:
-[![Watch the video tutorial](assets/tutorial-thumbnail.jpg)](VIDEO_URL)
-Then remove the coming-soon line and the placeholder SVG if no longer needed.
--->
-![Video tutorial coming soon](assets/tutorial-placeholder.svg)
+[![Watch the video tutorial](https://img.youtube.com/vi/h2MjhbwVKLk/hqdefault.jpg)](https://youtu.be/h2MjhbwVKLk)
 
-**Video walkthrough: coming soon.** The thumbnail above will link to the full tutorial when it is available.
+**[Watch the full video walkthrough](https://youtu.be/h2MjhbwVKLk)**
 
 # GPT-6 Astra · 10K Websites
 
@@ -26,8 +22,7 @@ The workflow starts with your business and brand, establishes a visual direction
 - Access to the generation models required by your chosen workflow. Asset generation may use paid credits in your Higgsfield account.
 - A hosting option when you are ready to publish. The prompt follows the workflow available in your environment.
 
-**Higgsfield referral link: coming soon.**
-<!-- Replace the line above with your referral link and an appropriate referral disclosure before public release. -->
+**[Get started with Higgsfield — my referral link](https://higgsfield.ai/s/gpt-6-astra-yt-bartslodyczka-ZqPdIF)**
 
 The prompts provide instructions; they do not install or connect Higgsfield MCP for you.
 
