@@ -1,4 +1,6 @@
-[![Watch the video tutorial](https://img.youtube.com/vi/h2MjhbwVKLk/hqdefault.jpg)](https://youtu.be/h2MjhbwVKLk)
+<a href="https://youtu.be/h2MjhbwVKLk">
+  <img src="https://img.youtube.com/vi/h2MjhbwVKLk/maxresdefault.jpg" alt="Watch the video tutorial" width="100%">
+</a>
 
 **[Watch the full video walkthrough](https://youtu.be/h2MjhbwVKLk)**
 
