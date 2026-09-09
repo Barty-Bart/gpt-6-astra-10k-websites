@@ -20,13 +20,17 @@ The workflow starts with your business and brand, establishes a visual direction
 ## What you need
 
 - GPT-6 Astra in a coding environment that can create and run a website.
-- **Higgsfield MCP connected, with image and video generation tools available.** These prompts use Higgsfield MCP to generate brand assets, images and videos, including the media used in the scroll-scrubbing animation.
-- Access to the generation models required by your chosen workflow. Asset generation may use paid credits in your Higgsfield account.
+- **A connected media provider with the required image and video tools available.** Higgsfield MCP is the default; fal.ai MCP is an opt-in alternative described below. The selected provider generates brand assets, images and videos, including scroll-scrubbing media.
+- Access to the generation models required by your chosen workflow. Asset generation may use paid credits in your selected provider account.
 - A hosting option when you are ready to publish. The prompt follows the workflow available in your environment.
 
 **[Get started with Higgsfield — my referral link](https://higgsfield.ai/s/gpt-6-astra-yt-bartslodyczka-ZqPdIF)**
 
-The prompts provide instructions; they do not install or connect Higgsfield MCP for you.
+The prompts provide instructions; they do not install or connect generation tools for you.
+
+### Optional provider: fal.ai MCP
+
+Higgsfield MCP remains the default. If you explicitly request fal.ai MCP, the prompts can use it after verifying that the required image and video tools are callable. Model availability and controls vary: inspect the live schema for portrait output, reference images, and matching first/last frames before generation. Mobile refinement continues with the selected desktop provider; it does not silently switch providers.
 
 ## 1. Build your website
 

@@ -32,6 +32,8 @@ During the main animation, allow the imagery to occupy the screen without unnece
 
 3. DEDICATED PORTRAIT ANIMATION
 
+Continue with the provider selected for the desktop build: Higgsfield MCP by default, or fal.ai MCP when explicitly requested. Verify its portrait-generation tools and live model schema before submitting. If the required tools are unavailable, explain the gap and continue independent layout work; do not silently switch providers.
+
 For a cinematic image-sequence website, create a dedicated portrait animation for mobile alongside the landscape desktop version.
 
 Generate portrait source images and connected animation clips in approximately 9:16. Recompose the scene for a tall screen rather than stretching landscape footage.
